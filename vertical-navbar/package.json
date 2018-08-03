@@ -2,6 +2,7 @@
   "name": "vertical-navbar",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://grenos.github.io/items/my-react-components/vertical-navbar/",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "normalize.css": "^8.0.0",
