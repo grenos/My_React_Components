@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         <Container fluid style={{ padding: '0' }}>
-          <Row>
+          <Row style={{ paddingRight: 0 }}>
             <NavBar />
             <Title />
           </Row>
